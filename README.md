@@ -1,10 +1,10 @@
-# PetLife+ 智慧寵物生活管理系統（網頁示意版）
+﻿# PetLife+ 智慧寵物生活管理系統（網頁示意版）
 
 資訊管理學系專題 第 B02 組
 
 以「智慧地圖整合服務」為核心，整合寵物醫療紀錄、美容照護、線上預約、通知提醒與家庭共同管理。
 
-- 線上展示：https://capybara168.github.io/petlife_cycu/
+- 線上展示：https://capybara168.github.io/Petlife/
 - 示範帳號：`mom@petlife.demo` ／ `1234`
 
 ## 功能
